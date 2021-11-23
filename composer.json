@@ -1,0 +1,19 @@
+{
+    "name": "smedinad/xml_processor",
+    "description": "Clases y funciones para la Manipulacion de archivos con nodos HTML",
+    "type": "library",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Samuel Medina",
+            "email": "samuelmedinadg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "./index.php"
+        ]
+    }
+}
