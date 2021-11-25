@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "name": "smedinad/xml_processor",
     "description": "Clases y funciones para la Manipulacion de archivos con nodos HTML",
     "type": "library",
